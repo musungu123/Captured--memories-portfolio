@@ -88,3 +88,7 @@ p {
   gap: 15px;
   max-width: 600px;
 }
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
