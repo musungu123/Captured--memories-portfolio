@@ -98,3 +98,11 @@ label {
   font-family: 'Arial', sans-serif;
   font-size: 0.9rem;
 }
+input, textarea {
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #444444;
+  background-color: #2b2b2b;
+  color: #ffffff;
+  font-size: 1rem;
+}
