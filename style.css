@@ -22,3 +22,9 @@ header h1 {
   letter-spacing: 2px;
   margin-bottom: 10px;
 }
+.tagline {
+  font-style: italic;
+  color: #aaaaaa;
+  max-width: 600px;
+  margin: 0 auto;
+}
