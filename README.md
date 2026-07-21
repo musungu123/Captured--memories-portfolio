@@ -9,4 +9,4 @@ Aperture & Memory is a responsive, visually striking photography portfolio desig
 ## Project Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/photography-portfolio.git](https://github.com/YOUR-USERNAME/photography-portfolio.git)
+   git clone [https://github.com/musungu123/Captured--memories-portfolio.git](https://github.com/musungu123/Captured--memories-portfolio.git)
