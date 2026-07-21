@@ -125,3 +125,11 @@ button {
 button:hover {
   background-color: #80c1ff;
 }
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #000000;
+  color: #888888;
+  font-size: 0.9rem;
+  border-top: 1px solid #333333;
+}
